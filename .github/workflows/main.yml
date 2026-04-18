@@ -7,7 +7,7 @@
 
 
 
-name: RDP
+name: public  RDP
 
 on:
   workflow_dispatch:
